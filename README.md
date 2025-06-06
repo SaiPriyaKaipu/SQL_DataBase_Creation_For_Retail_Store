@@ -33,5 +33,5 @@ The system consists of two interconnected schemas:
 📂 Files included:
 - `Final Project.sql` – SQL script with table creation and schema definitions  
 - `ER Diagram Final.mwb` – Entity-Relationship diagram  
-- `SQL Final Presentation - Avengers.pptx` – Summary presentation of the database
+- `SQL Final Presentation.pptx` – Summary presentation of the database
 
